@@ -15,6 +15,7 @@ body {
 
 div.header {
 	margin-top: 150px;
+	text-align: center;
 }
 
 h1.rem {
@@ -43,6 +44,7 @@ h1.linetxt {
 
 div.tab3 {
 	background-color: black;
+	padding-top: 50px;
 }
 
 h1.linetxtrus {
@@ -54,6 +56,11 @@ h1.linetxtrus {
 	text-align: center;
 	font-size: 150px;
 	color: white;
+}
+
+.texthy {
+	font-family: 'Roboto';
+	font-size: 50px;
 }
 
 div.tab3-1 {
@@ -121,3 +128,4 @@ div.save {
 img.save {
 	margin-top: 50px;
 }
+
